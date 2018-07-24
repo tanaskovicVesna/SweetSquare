@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">SweetSquare</string>
+    <string name="cheese_ipsum">Jarlsberg lancashire edam. Dolcelatte hard cheese brie st. agur blue
+    cheese caerphilly bavarian bergkase cheese and biscuits mascarpone. Cheeseburger swiss bavarian
+    bergkase cream cheese fromage frais cheesy feet port-salut airedale. St. agur blue cheese rubber
+    cheese caerphilly cheddar cheesecake cream cheese manchego lancashire. Roquefort squirty cheese
+    the big cheese.</string>
+    <string name="checkin">Checkin</string>
+
+    <string name="menu_night_mode">Night mode</string>
+
+    <string name="menu_night_mode_night">Night</string>
+    <string name="menu_night_mode_auto">Auto</string>
+
+    <string name="about">About App</string>
+    <string name="about_app">Vesna Tanaskovic made this app</string>
+
+    <string name="name_applepie"></string>
+    <string name="description_applepie">An apple pie is a pie or a tart, in which the principal filling ingredient is apple. It is, on occasion, served with whipped cream or ice cream on top, or alongside cheddar cheese.
+                The pastry is generally used top and bottom, making it a double crust pie. The upper crust may be a circular or a pastry lattice woven of crosswise strips.</string>
+    <string name="name_cheesecake">Cheesecake</string>
+    <string name="description_cheesecake">Cheesecake is a sweet dessert consisting of one or more layers.
+                The main, and thickest layer, consists of a mixture of soft, fresh cheese, typically cream cheese or ricotta, eggs, vanilla and sugar.
+                If there is a bottom layer it often consists of a crust or base made from crushed cookies, biscuits, graham crackers, pastry, or sponge cake. It may be baked or unbaked. Usually it is refrigerated.
+               Cheesecake is sweetened with sugar and may be flavored or topped with fruit, whipped cream, nuts, cookies, fruit sauce, or chocolate syrup.</string>
+    <string name="name_coffeecookies">Coffeecookies</string>
+    <string name="description_coffeecookies">Coffeecookies are sweet biscuits. They are soft, chewy, and thick coffee flavoured chocolate chip cookies topped with a coffee drizzle.</string>
+    <string name="name_donuts">Donuts</string>
+    <string name="description_donuts">Donuts are type of fried dessert food. The two most common types are the ring doughnut and the filled doughnut, which is injected with fruit preserves, cream, custard, or other sweet fillings.
+                Alternatively, small pieces of dough are sometimes cooked as doughnut holes. Once fried, doughnuts may be glazed with a sugar icing, spread with icing or chocolate on top, or topped with powdered sugar or sprinkles or fruit.</string>
+    <string name="name_fruitpie">Fruitpie</string>
+    <string name="description_fruitpie">A pie is a baked dish which is usually made of a pastry dough casing that covers or completely contains a filling fruit and sweet ingredients.</string>
+    <string name="name_lemonpie">Lemonpie</string>
+    <string name="description_lemonpie">A flavorsome lemoncake, filled with large plump lemons and enhanced by vanilla sugar and sweet pastry. Yum.</string>
+    <string name="name_macarons">Macarons</string>
+    <string name="description_macarons">French macarons are thin, flavorful meringue cookies that are sandwiched together with some kind of filling.
+                They are made with egg whites and lots of ground nuts, which helps them to attain that chewy texture without drying out and becoming too crispy, like a simple meringue cookie made with just egg whites and sugar. The fillings can be jams, caramel to buttercream frosting.</string>
+    <string name="name_moonpie">Moonpie</string>
+    <string name="description_moonpie">Moonpie are cookies with crunchy graham flavor, sweet marshmallow frosting and a drizzle of chocolate.</string>
+    <string name="name_muffins">Muffins</string>
+    <string name="name_pancakes">Pancakes</string>
+    <string name="description_pancakes">A pancake is a flat cake, often thin and round, prepared from a starch based batter that may contain eggs, milk and butter and cooked on a hot surface such as a griddle or frying pan, often frying with oil or butter.</string>
+    <string name="name_pumpkinpie">Pumpkinpie</string>
+    <string name="description_pumpkinpie">Pumpkincake is a dessert pie with a spiced, pumpkin based custard filling. The pumpkin is a symbol of harvest time, and pumpkin pie is often eaten during the fall and early winter.</string>
+    <string name="description_muffins" >Muffins are baked food products. Usually muffens are served for breakfast or with coffee. Muffins are form of bread and they are never frosted.</string>
+
+    <string name="description_bag">At Santoro London we stock a wide range of bags for you to choose from. With iconic designs and shapes, browse all our range of hand bags, weekend bags, backpacks, rucksacks and many more. Wathever the need, we sure we have a bag for you!</string>
+    <string name="name_cakepops">Cakepops</string>
+    <string name="description_cakepops">A cake pop is a form of cake styled as a lollipop. Cake crumbs are mixed with icing or chocolate, and formed into small spheres or cubes in the same way as cake balls, before being given a coating of icing, chocolate or other decorations and attached to lollipop sticks .</string>
+    <string name="name_traditional_coffee">Traditional coffee</string>
+    <string name="description_traditional_coffee">Traditional coffee is made by boiling very finely ground coffee beans with water and optionally sugar in a special coffee pot called cezve. As soon as the mixture begin to froth, and before it boils over, about one-third of the coffee is distributed to individual cups.The remaining amount is returned to the fire and distributed to the cups as soon as it starts to boil.</string>
+    <string name="name_espresso">Espresso</string>
+    <string name="description_espresso"> Espresso is a specific style of coffee drink that is pulled from an espresso machine that is designed for this single purpose. Espresso can be enjoyed on its own for its full, rich coffee flavor. </string>
+    <string name="name_macchiatio">Macchiato</string>
+    <string name="description_macchiato">Macchiato is an espresso coffee drink with a small amount of milk, usually foamed. In Italian, macchiato means stained or spotted so it is a coffee with a spot of milk.</string>
+    <string name="name_nescafe">Nescafe</string>
+    <string name="description_nescafe">Nescafee is a brand of coffee made by Nestle. It comes in many different forms.Put the Nescafe granules in a coffee mug.With an electric (or battery powered) hand-held frother, whip the sugar and Nescafe together until it gets to the consistency of cream. Add milk if you wish. </string>
+    <string name="name_cappuccino">Cappuccino</string>
+    <string name="description_cappuccino">Cappuccino is an Italian coffee drink that is traditionally prepared with double espresso, and steamed milk foam.
+        Variations of the drink involve the use of cream instead of milk, and flavouring with cinnamon or chocolate powder.</string>
+    <string name="iced_coffee">Iced coffee</string>
+    <string name="description_iced_coffee">Iced coffee is cold coffee with ice. The iced latte and iced mocha are examples. There are various brewing methods, with the fundamental division being cold brew, brewing the coffee cold, yielding different flavor, but not requiring cooling or brewing hot and then cooling, generally by simply pouring over ice or into ice cold milk.</string>
+    <string name="name_schnapps">Schnapps</string>
+    <string name="description_schnapps">Schnapps is a type of alcoholic beverage that may take several forms, including distilled fruit brandies, herbal liqueurs, infusions, and flavored liqueurs made by adding fruit syrups, spices, or artificial flavorings to neutral grain spirits.</string>
+    <string name="name_lemonade">Lemonade</string>
+    <string name="description_lemonade">Lemonade is any of various sweetened beverages found throughout the world, all characterized by lemon flavor. Most lemonade varieties can be separated into two distinct types: cloudy and clear, each is known simply as lemonade.</string>
+    <string name="name_water">Water</string>
+    <string name="description_water">Safe drinking water, also known as potable water, is water that is safe to drink or to use for food preparation.</string>
+    <string name="name_juice">Juice</string>
+    <string name="description_juice">Juice is a beverage made from the extraction or pressing of the natural liquid contained in fruit and vegetables. It can also refer to liquids that are flavored with concentrate. Orange uice is the most popular juice drink. </string>
+    <string name="name_cola">Cola</string>
+    <string name="description_cola">Cola is a sweetened, carbonated soft drink, made from ingredients that contain caffeine from the kola nut and non-cocaine derivatives from coca leaves, flavored with vanilla and other ingredients.</string>
+    <string name="name_tea">Tea</string>
+    <string name="description_tea">Tea is an aromatic beverage commonly prepared by pouring hot or boiling water over cured leaves. After water, tea is the most widely consumed drink in the world. There are many different types of tea. Some, like Darjeeling and Chinese greens, have a cooling, slightly bitter, and astringent flavour, while others have vastly different profiles that include sweet, nutty, floral or grassy notes.</string>
+    <string name="dialog_about_app">About App</string>
+    <string name="dialog_about_yes">Yes</string>
+</resources>
